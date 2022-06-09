@@ -55,6 +55,7 @@ Note: The styling for all pages are provided for you. However, feel free to play
       1. import Button and TextField from material UI like so: `import { Button, TextField } from "@mui/material";`
       2. Both `handleChange` and `handleSubmit` functions are already provided for you. Paste the code below in the `div` tag inside the render() function. 
       ```
+      
       <TextField
         label="Add New Item"
         variant="outlined"
